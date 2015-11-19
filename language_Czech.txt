@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - Uspesne jsi se prihlasil, {Player Name}
+LOGIN_WELCM2 - Vitej na serveru Argonath RPG RS5!
+LOGIN_MFERR1 - Multifaktorialní overujici sluba je v rezimu offline. Prosim zkuste pozdeji.
+LOGIN_MFERR2 - Error: tento kod je spatny!
+LOGIN_MF1    - Tvuj ucet has povoleny multifaktorialní overeni pravosti.\n\n Prosim vloz svuj kod jak je znazornen v aplikaci Google Authenticator :
+LOGIN_PASSER1- Error: Tva hesla se neshoduji! Pamatuj, jsou citlivá na velka pismena!
+LOGIN_PASSER2- Error: vlozil jsi nespravne heslo.
+LOGIN_PASS2  - Prosim opakuj heslo ktere jsi si zvolil.
+LOGIN_QUIT   - Jses si jisty ze chces odejit ze serveru?
+LOGIN_ADULT  - Varovani: Tento server obsahuje prvky ktere mohou byt povazovany vhodne pouze pro dospele.
+LOGIN_BYE1   - Zvolil sis odejit ze serveru.
+ERROR_NOTLOG - Error: Nejsi prihlasen.
+ERROR_KICK   - Error: Tento prikaz ted nemuzes pouzit.
+ECON_RELOAD  - [POZOR] Tva ekonomicka data jsou prave zavadena, ekonomicke funkce jsou prave ted nedostupne.
+TXT_Login0   - Vitej na Argonath RPG
+TXT_Login1   - Svet sam pro sebe
+CMD_TIME     - Realny cas je  {Time} (CET - Central European Time).
+CMD_TD       - Prave je {time} Cas serveru (CET - Central European Time), Dnes je {date}
+CMD_DATE     - Dnes je {date}.
+MONTH_1      - Leden
+MONTH_2      - Unor
+MONTH_3      - Brezen
+MONTH_4      - Duben
+MONTH_5      - Kveten
+MONTH_6      - Cerven
+MONTH_7      - Cervenec
+MONTH_8      - Srpen
+MONTH_9      - Zari
+MONTH_10     - Rijen
+MONTH_11     - Listopad
+MONTH_12     - Prosinec
+
+// Other
+RES_COMBAT   - V bitve toto nemuzes udelat.
+RES_NODONE	 - Error: Tyto funkce jsou prave ted vypnute kvuli bugu.
+
+// Economy
+ECON_ATM_TY  - Dekujeme ze jste pouzil Automatizovany pokladni stroj poskytnuty bankou Argonath RPG!"
+ECON_ATM_NC  - Error: Nejsi u bankomatu
+ECON_ATM_CIV - Nemas bankovni ucet k pouziti tohoto zarizeni. Musis byt legalni obcan.
+ECON_ATM_LIM - Error: Nemuzes vybrat vice nez  $100,00 v  bankomatu. Prosim navstiv mistni banku.
+ECON_ATM_POS - Error: Muzes pouze vybrat kladnou castku.
+ECON_ATM_1m  - Error: Pro znovu vybrani z bankomatu musis vyckat minutu.
+ECON_BNK_N10 - Error: Nemuze byt delsi nez 10 znaku.
+ECON_BNK_DBT - Banka: Promin, jsi v dluhu. Tve ucty jsou zmrazeny.
+ECON_BNK_ACC - Tento ucet neexistuje nebo k nemu nemas pristup.
+ECON_BNK_FKT - Byla zde chyba se zdrojem uctu.
+ECON_BNK_LRG - Error: Tato castka je moc velka.
+ECON_BNK_MIN - Error: Nejmensi castka je $1.
+ECON_BNK_FUN - Error: Nemas dostatek dostupnych penez k vybrani takove castky.
+ECON_BNK_WNSF- Nemas dostatek prostredku k provedeni zadosti.
+ECON_BNK_TY  - Dekujeme za navstevu banky Argonath RPG
+ECON_BNK_REJ - Transakce zamitnuta, prostredky nebudou prevedeny
+ECON_BNK_PART- Tvuj partner musi byt v bance!
+ECON_BNK_PSLF- Nemuzes otevrit partnerovi ucet sam.
+ECON_BNK_PNO - Vybral si nezakladat ucet.
+ECON_BNK_PPNO- Tvuj partner zamitnul tvoji zadost o otevreni uctu.
+ECON_BNK_LOAD- Error: Tva banka jeste neni nactena, prosim vyckej.
+ECON_BNK_BNK - Error: Musis byt v bance.
+ECON_BNK_CIV - Error: Nenechavame imigranty obsluhovat bankovni ucty. Cestovni pas je pozadovany k vyuziti banky.
+ECON_BNK_CRI - Error: Banka je zavrena z duvodu financni krize.
+ECON_BNK_GRP - Error: Prosim pouzij /groupbank k vybrani/vkladu z skupinoveho uctu.
